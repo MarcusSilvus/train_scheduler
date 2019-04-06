@@ -1,8 +1,27 @@
 .jumbotron {
     text-align: center;
-    background-color: black;
+    background-color: sienna;
  }
 
  h1, h2 {
      color: white;
+ }
+
+ .card-header {
+    color: #ffffff;
+	background-color: #006dcc;
+ }
+
+ th {
+    padding-right: 70px;
+    font-size: 12px;
+ }
+ 
+ td {
+    padding-right: 50px;
+    font-size: 10px;
+ }
+
+ label {
+    font-size: 14px;
  }

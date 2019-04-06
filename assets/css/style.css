@@ -13,13 +13,13 @@
  }
 
  th {
-    padding-right: 70px;
-    font-size: 12px;
+    width: 250px;
+    font-size: 14px;
  }
  
  td {
-    padding-right: 50px;
-    font-size: 10px;
+    width: 250px;
+    font-size: 12px;
  }
 
  label {

@@ -34,6 +34,7 @@ $("#inputSubmit").on("click", function (event) {
         freqInput: freqInput,
         //firebase.database.ServerValue.TIMESTAMP
     });
+    
     var newRow = $('<tr>').append(
         $('<td>').text(nameInput),
         $('<td>').text(destInput),

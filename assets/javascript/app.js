@@ -70,8 +70,6 @@ $("#inputSubmit").on("click", function (event) {
     $("#destInput").val('');
     $("#firstInput").val('');
     $("#freqInput").val('');
-
-
     
 });
 
